@@ -25,5 +25,5 @@
 
 Адрес для программы: ExamAttampt1
 
-Адрес для блок-схемы: BlockSchem
+Адрес для блок-схемы: BlockSchem.drawio
 
